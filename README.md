@@ -1,2 +1,2 @@
 # HULU Landing Page
-![hulu landing page](https://user-images.githubusercontent.com/40835806/127206287-4e95576b-c047-4578-9151-052a4cfc99c6.png)
+![hulu landing page](https://user-images.githubusercontent.com/40835806/127206538-0a758fae-6e05-4d2e-b939-a8776bab047b.png)
